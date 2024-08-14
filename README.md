@@ -69,7 +69,7 @@ Many more....
 12. Import TrashECO.sql
 13. ```php artisan serve``` or use virtual host
 11. Visit ```localhost:8000``` in your browser
-12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
+12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. Admin Faculty 'admin@ft.com'/ '1111' ///User Email/Password: ```user@gmail.com```/```1111```
 
 
 
