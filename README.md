@@ -1,4 +1,4 @@
-## Advance E-commerce website in  Laravel 9
+## TRASH ECO
 
 ### Features :
 - ##### PWA (progressive web app)
@@ -66,7 +66,8 @@ Many more....
 9. ```npm run watch```
 10. run command[laravel file manager]:-  ```php artisan storage:link```
 11. Edit ```.env``` file :- remove APP_URL
-10. ```php artisan serve``` or use virtual host
+12. Import TrashECO.sql
+13. ```php artisan serve``` or use virtual host
 11. Visit ```localhost:8000``` in your browser
 12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
 
